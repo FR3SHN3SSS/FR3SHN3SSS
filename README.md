@@ -12,7 +12,7 @@ Building scalable software, intelligent applications, and modern web experiences
 
 <br>
 
-<a href="https://praktanpulekar.com">
+<a href="https://praktan-pulekar.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
@@ -211,16 +211,6 @@ Medical database platform managing over **5,000 records**.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FR3SHN3SSS&show_icons=true&hide_border=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FR3SHN3SSS&layout=compact&hide_border=true&theme=github_dark"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FR3SHN3SSS&theme=github-dark-blue&hide_border=true"/>
-
-<br><br>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FR3SHN3SSS&theme=github-compact"/>
 
 </div>
@@ -259,7 +249,5 @@ If you're interested in collaborating, discussing technology, or just saying hel
 **Thanks for stopping by! Feel free to explore my projects or connect with me.**
 
 <br>
-
-桜 &nbsp;·&nbsp; Build with Purpose &nbsp;·&nbsp; Learn Continuously &nbsp;·&nbsp; 桜
 
 </div>
